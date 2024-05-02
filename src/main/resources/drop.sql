@@ -1,0 +1,13 @@
+delete from flat;
+delete from house;
+delete from street;
+delete from settlement;
+delete from city_district;
+delete from city;
+delete from area;
+delete from region;
+delete from country;
+delete from common_result;
+delete from geo_result;
+delete from geo_result_metro;
+delete from metro;
